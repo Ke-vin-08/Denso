@@ -1,0 +1,8 @@
+prefix=/home/kevinortega/denso_ws/devel
+
+Name: bcap_service
+Description: Description of bcap_service
+Version: 3.2.0
+Cflags: -I/home/kevinortega/denso_ws/devel/include -I/home/kevinortega/denso_ws/src/denso_robot_ros/bcap_service/include
+Libs: -L${prefix}/lib -lbcap_service
+Requires: bcap_core message_runtime roscpp std_msgs

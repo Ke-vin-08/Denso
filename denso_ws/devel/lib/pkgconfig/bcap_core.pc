@@ -1,0 +1,8 @@
+prefix=/home/kevinortega/denso_ws/devel
+
+Name: bcap_core
+Description: Description of bcap_core
+Version: 3.2.0
+Cflags: -I/home/kevinortega/denso_ws/src/denso_robot_ros/bcap_core/include -I/home/kevinortega/denso_ws/src/denso_robot_ros/bcap_core/include/bcap_core
+Libs: -L${prefix}/lib -lbcap_client -lbcap_server -ltpcomm -lrac_string
+Requires: 

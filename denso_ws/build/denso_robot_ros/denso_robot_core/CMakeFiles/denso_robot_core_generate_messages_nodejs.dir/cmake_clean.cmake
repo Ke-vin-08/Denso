@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveStringAction.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveStringActionFeedback.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveStringActionGoal.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveStringActionResult.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveStringFeedback.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveStringGoal.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveStringResult.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveValueAction.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveValueActionFeedback.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveValueActionGoal.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveValueActionResult.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveValueFeedback.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveValueGoal.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/DriveValueResult.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/ExJoints.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/Joints.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveStringAction.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveStringActionFeedback.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveStringActionGoal.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveStringActionResult.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveStringFeedback.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveStringGoal.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveStringResult.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveValueAction.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveValueActionFeedback.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveValueActionGoal.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveValueActionResult.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveValueFeedback.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveValueGoal.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/MoveValueResult.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/PoseData.js"
+  "/home/kevinortega/denso_ws/devel/share/gennodejs/ros/denso_robot_core/msg/UserIO.js"
+  "CMakeFiles/denso_robot_core_generate_messages_nodejs"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/denso_robot_core_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

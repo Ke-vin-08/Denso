@@ -1,0 +1,2 @@
+denso_robot_ros/bcap_core:denso_robot_ros/bcap_service:denso_robot_ros/bcap_service_test:denso_robot_ros/denso_robot_bringup:denso_robot_ros/denso_robot_control:denso_robot_ros/denso_robot_core:denso_robot_ros/denso_robot_core_test:denso_robot_ros/denso_robot_descriptions:denso_robot_ros/denso_robot_gazebo:denso_robot_ros/denso_robot_moveit_config:denso_robot_ros/denso_robot_ros
+-DCATKIN_DEVEL_PREFIX=/home/kevinortega/denso_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kevinortega/denso_ws/install -G Unix Makefiles
